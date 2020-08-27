@@ -1,3 +1,3 @@
 # raycasting
 
-<img src="https://prnt.sc/u6obq3">
+<img src="images/3D_raycasting.png">
